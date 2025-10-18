@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pranav-digital-portfolio/static/css/main.bb339348.css",
+    "main.css": "/pranav-digital-portfolio/static/css/main.d4901a33.css",
     "main.js": "/pranav-digital-portfolio/static/js/main.0924e847.js",
     "index.html": "/pranav-digital-portfolio/index.html",
-    "main.bb339348.css.map": "/pranav-digital-portfolio/static/css/main.bb339348.css.map",
+    "main.d4901a33.css.map": "/pranav-digital-portfolio/static/css/main.d4901a33.css.map",
     "main.0924e847.js.map": "/pranav-digital-portfolio/static/js/main.0924e847.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb339348.css",
+    "static/css/main.d4901a33.css",
     "static/js/main.0924e847.js"
   ]
 }
